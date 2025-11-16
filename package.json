@@ -9,10 +9,11 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-   "engines": {
+  "engines": {
     "node": "22.x"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
     "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.8",
     "react": "^19.2.0",
